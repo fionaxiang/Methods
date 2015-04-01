@@ -1,0 +1,2 @@
+# Methods
+the second way
